@@ -1,0 +1,16 @@
+# virtual environments (venv was created inside the project folder)
+.venv/
+venv/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data / outputs
+data/
+logs/
